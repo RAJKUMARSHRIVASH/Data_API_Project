@@ -5,5 +5,12 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+
+  "user" : [
+    {"name" : "" , "email" : "", "password" : "", "id" : "", "cart_items" : "", "login_status" : false}
+  ],
+  "Admin" : [
+    {"name" : "" , "email" : "", "password" : "", "id" : "", "login_status" : false}
+  ]
 }
